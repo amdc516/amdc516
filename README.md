@@ -3,7 +3,7 @@
 - 👩‍🏫 CS student - Physics and Maths teacher
 - 🔭 I’m currently working on expanding my programming skills
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: amdc516@gmail.com
+- 📫 How to reach me: amdc516@gmail.com - [linkedIn] (https://www.linkedin.com/in/alejandramdelgado/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like drawing cats
 
